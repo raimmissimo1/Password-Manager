@@ -1,5 +1,5 @@
 # Password-Manager
-Password Manager is always ready to help you
+Password Manager always ready to help you
 
 🧩 Description
 
