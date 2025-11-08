@@ -1,5 +1,6 @@
 # Password-Manager
 Password Manager is always ready to help you
+
 🧩 Description
 
 This project is a simple password manager written in Python that uses the Fernet symmetric encryption system from the cryptography library.
