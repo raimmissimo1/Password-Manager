@@ -66,3 +66,5 @@ while active:
     else:
         print("Invalid mode")
         continue
+
+print("KALALLA")
